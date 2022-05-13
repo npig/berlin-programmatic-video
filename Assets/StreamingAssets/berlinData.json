@@ -1,0 +1,689 @@
+{
+  "Staff": [
+    {
+      "IGN": "Dash",
+      "Name": "James Patterson",
+      "Language": "English"
+    }
+  ],
+  "Teams": [
+    {
+      "Logo": "Gambit_2020",
+      "Name": "Gambit Esports",
+      "Code": "GMB",
+      "Players": [
+        {
+          "IGN": "Chronicle",
+          "Name": "Timofey Khromov",
+          "Language": "English"
+        },
+        {
+          "IGN": "d3ffo",
+          "Name": "Nikita Sudakov",
+          "Language": "English"
+        },
+        {
+          "IGN": "Sheydos",
+          "Name": "Bogdan Naumov",
+          "Language": "English"
+        },
+        {
+          "IGN": "nAts",
+          "Name": "Ayaz Akhmetshin",
+          "Language": "English"
+        },
+        {
+          "IGN": "Redgar",
+          "Name": "Igor Vlasov",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Engh",
+          "Name": "Andrey Sholokhov",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "SuperMassive_Blaze",
+      "Name": "SuperMassive Blaze",
+      "Code": "SMB",
+      "Players": [
+        {
+          "IGN": "pAura",
+          "Name": "Melih Karaduran",
+          "Language": "English"
+        },
+        {
+          "IGN": "russ",
+          "Name": "Batuhan Malgaç",
+          "Language": "Turkish"
+        },
+        {
+          "IGN": "Turko",
+          "Name": "Mehmet Özen",
+          "Language": "Turkish"
+        },
+        {
+          "IGN": "Brave",
+          "Name": "Eren Kasırga",
+          "Language": "Turkish"
+        },
+        {
+          "IGN": "Izzy",
+          "Name": "Baran Yılmaz",
+          "Language": "Turkish"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "9999",
+          "Name": "Mert Turna",
+          "Language": "English"
+        },
+        {
+          "IGN": "Tanizhq",
+          "Name": "Tanishq Sabharwal",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Acend",
+      "Name": "Acend",
+      "Code": "ACE",
+      "Players": [
+        {
+          "IGN": "BONECOLD",
+          "Name": "Santeri Sassi",
+          "Language": "English"
+        },
+        {
+          "IGN": "cNed",
+          "Name": "Mehmet Yağız İpek",
+          "Language": "Turkish"
+        },
+        {
+          "IGN": "Kiles",
+          "Name": "Vladyslav Shvets",
+          "Language": "English"
+        },
+        {
+          "IGN": "starxo",
+          "Name": "Patryk Kopczyński",
+          "Language": "English"
+        },
+        {
+          "IGN": "zeek",
+          "Name": "Aleksander Zygmunt",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Nbs",
+          "Name": "Laurynas Kisielius",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "G2_Esports_2019",
+      "Name": "G2 Esports",
+      "Code": "G2",
+      "Players": [
+        {
+          "IGN": "mixwell",
+          "Name": "Óscar Cañellas Colocho",
+          "Language": "English"
+        },
+        {
+          "IGN": "nukkye",
+          "Name": "Žygimantas Chmieliauskas",
+          "Language": "English"
+        },
+        {
+          "IGN": "AvovA",
+          "Name": "Auni Chahade",
+          "Language": "English"
+        },
+        {
+          "IGN": "koldamenta",
+          "Name": "Jose Luis Aranguren Herrero",
+          "Language": "English"
+        },
+        {
+          "IGN": "keloqz",
+          "Name": "Cista Wassim",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "neilzinho",
+          "Name": "Neil Finlay",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Sentinels_2020_allmode",
+      "Name": "Sentinels",
+      "Code": "SEN",
+      "Players": [
+        {
+          "IGN": "ShahZaM",
+          "Name": "Shahzeb Khan",
+          "Language": "English"
+        },
+        {
+          "IGN": "SicK",
+          "Name": "Hunter Mims",
+          "Language": "English"
+        },
+        {
+          "IGN": "zombs",
+          "Name": "Jared Gitlin",
+          "Language": "English"
+        },
+        {
+          "IGN": "dapr",
+          "Name": "Michael Gulino",
+          "Language": "English"
+        },
+        {
+          "IGN": "TenZ",
+          "Name": "Tyson Ngo",
+          "Language": "English"
+        }
+      ],
+      "Staff": []
+    },
+    {
+      "Logo": "100thieveslogo",
+      "Name": "100 Thieves",
+      "Code": "100T",
+      "Players": [
+        {
+          "IGN": "Hiko",
+          "Name": "Spencer Martin",
+          "Language": "English"
+        },
+        {
+          "IGN": "nitr0",
+          "Name": "Nicholas Cannella",
+          "Language": "English"
+        },
+        {
+          "IGN": "steel",
+          "Name": "Joshua Nissan",
+          "Language": "English"
+        },
+        {
+          "IGN": "Asuna",
+          "Name": "Peter Mazuryk",
+          "Language": "English"
+        },
+        {
+          "IGN": "Ethan",
+          "Name": "Ethan Arnold",
+          "Language": "English"
+        },
+        {
+          "IGN": "b0i",
+          "Name": "Aaron Thao",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "FrosT",
+          "Name": "Hector Rosario",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Team_Envy_2018",
+      "Name": "Team Envy",
+      "Code": "NV",
+      "Players": [
+        {
+          "IGN": "FNS",
+          "Name": "Pujan Mehta",
+          "Language": "English"
+        },
+        {
+          "IGN": "Victor",
+          "Name": "Victor Wong",
+          "Language": "English"
+        },
+        {
+          "IGN": "crashies",
+          "Name": "Austin Roberts",
+          "Language": "English"
+        },
+        {
+          "IGN": "yay",
+          "Name": "Jaccob Whiteaker",
+          "Language": "English"
+        },
+        {
+          "IGN": "Marved",
+          "Name": "Jimmy Nguyen",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Mikes",
+          "Name": "Michael Hockom",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "KRU_Esports_allmode",
+      "Name": "KRÜ Esports",
+      "Code": "KRÜ",
+      "Players": [
+        {
+          "IGN": "Klaus",
+          "Name": "Nicolas Ferrari",
+          "Language": "English"
+        },
+        {
+          "IGN": "Mazino",
+          "Name": "Roberto Rivas",
+          "Language": "English"
+        },
+        {
+          "IGN": "NagZ",
+          "Name": "Juan Pablo Lopez",
+          "Language": "English"
+        },
+        {
+          "IGN": "bnj",
+          "Name": "Benjamin Rabinovich",
+          "Language": "English"
+        },
+        {
+          "IGN": "delz1k",
+          "Name": "Joaquin Espinoza",
+          "Language": "English"
+        },
+        {
+          "IGN": "keznit",
+          "Name": "Angelo Mori",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Onur",
+          "Name": "Rodrigo Dalmagro",
+          "Language": "English"
+        },
+        {
+          "IGN": "BeTony",
+          "Name": "Martin Bourre",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Vivo_Keyd_logo",
+      "Name": "Vivo Keyd",
+      "Code": "VK",
+      "Players": [
+        {
+          "IGN": "heat",
+          "Name": "Olavo Marcelo",
+          "Language": "English"
+        },
+        {
+          "IGN": "JhoW",
+          "Name": "Jonathan Glória",
+          "Language": "English"
+        },
+        {
+          "IGN": "v1xen",
+          "Name": "Gabriel Martins",
+          "Language": "English"
+        },
+        {
+          "IGN": "murizzz",
+          "Name": "Murillo Tuchtenhagen",
+          "Language": "English"
+        },
+        {
+          "IGN": "ntk",
+          "Name": "Lucas Martins",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Koy",
+          "Name": "Pedro Pulig",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Havan_Liberty",
+      "Name": "Havan Liberty",
+      "Code": "HL",
+      "Players": [
+        {
+          "IGN": "myssen",
+          "Name": "Rodrigo Myssen",
+          "Language": "English"
+        },
+        {
+          "IGN": "shion",
+          "Name": "Gabriel Vilela",
+          "Language": "English"
+        },
+        {
+          "IGN": "pleets",
+          "Name": "Marcelo Leite",
+          "Language": "English"
+        },
+        {
+          "IGN": "liazzi",
+          "Name": "Felipe Galiazzi",
+          "Language": "English"
+        },
+        {
+          "IGN": "krain",
+          "Name": "Gustavo Melara",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "rik",
+          "Name": "Ricardo Furquim",
+          "Language": "English"
+        },
+        {
+          "IGN": "Hiromi",
+          "Name": "Saymon de Sousa",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Vision_Strikers",
+      "Name": "Vision Strikers",
+      "Code": "VS",
+      "Players": [
+        {
+          "IGN": "stax",
+          "Name": "Kim Gu-taek",
+          "Language": "English"
+        },
+        {
+          "IGN": "Rb",
+          "Name": "구상민",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "k1Ng",
+          "Name": "Lee Seung-won",
+          "Language": "English"
+        },
+        {
+          "IGN": "BuZz",
+          "Name": "유병철",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "MaKo",
+          "Name": "Kim Myeong-kwan",
+          "Language": "English"
+        },
+        {
+          "IGN": "Lakia",
+          "Name": "김종민",
+          "Language": "Korean"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "termi",
+          "Name": "Pyeon Seon-ho",
+          "Language": "English"
+        },
+        {
+          "IGN": "Argency",
+          "Name": "Kwon Soon-woo",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "F4q_logo",
+      "Name": "F4Q",
+      "Code": "F4Q",
+      "Players": [
+        {
+          "IGN": "FiveK",
+          "Name": "유성민",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "Bunny",
+          "Name": "채준혁",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "Efina",
+          "Name": "김낙연",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "zunba",
+          "Name": "김준혁",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "Esperanza",
+          "Name": "정진철",
+          "Language": "Korean"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Locomotive",
+          "Name": "Yoo Jung-sun",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "ZETA_DIVISION",
+      "Name": "ZETA DIVISION",
+      "Code": "ZETA",
+      "Players": [
+        {
+          "IGN": "Laz",
+          "Name": "Koji Ushida",
+          "Language": "English"
+        },
+        {
+          "IGN": "crow",
+          "Name": "Tomoaki Maruoka",
+          "Language": "English"
+        },
+        {
+          "IGN": "barce",
+          "Name": "Ryo Takebayashi",
+          "Language": "English"
+        },
+        {
+          "IGN": "takej",
+          "Name": "Shogo Takemori",
+          "Language": "English"
+        },
+        {
+          "IGN": "Reita",
+          "Name": "Ryu Oshiro",
+          "Language": "English"
+        },
+        {
+          "IGN": "makiba",
+          "Name": "Akatsuki Miyamoto",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "JUNiOR",
+          "Name": "Yuya Sawada",
+          "Language": "English"
+        },
+        {
+          "IGN": "XQQ",
+          "Name": "Hibiki Motoyama",
+          "Language": "English"
+        }        
+      ]
+    },
+    {
+      "Logo": "Crazy_Raccoon_2021",
+      "Name": "Crazy Raccoon",
+      "Code": "CR",
+      "Players": [
+        {
+          "IGN": "Medusa",
+          "Name": "An Min-cheol",
+          "Language": "English"
+        },
+        {
+          "IGN": "neth",
+          "Name": "Yusuke Matsuda",
+          "Language": "English"
+        },
+        {
+          "IGN": "Munchkin",
+          "Name": "변상범",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "Bazzi",
+          "Name": "박준기",
+          "Language": "Korean"
+        },
+        {
+          "IGN": "ade",
+          "Name": "Teppei Kuno",
+          "Language": "English"
+        },
+        {
+          "IGN": "Fisker",
+          "Name": "Hideki Sasaki",
+          "Language": "English"
+        },
+        {
+          "IGN": "Minty",
+          "Name": "Daiki Kato",
+          "Language": "English"
+        }                
+      ],
+      "Staff": [
+        {
+          "IGN": "Twinkl",
+          "Name": "Lim Young-bin",
+          "Language": "English"
+        },
+        {
+          "IGN": "mun",
+          "Name": "Yusuke Ota",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Paper_Rex_lightmode",
+      "Name": "Paper Rex",
+      "Code": "PRX",
+      "Players": [
+        {
+          "IGN": "mindfreak",
+          "Name": "Aaron Leonhart",
+          "Language": "English"
+        },
+        {
+          "IGN": "f0rsakeN",
+          "Name": "Jason Susanto",
+          "Language": "English"
+        },
+        {
+          "IGN": "Benkai",
+          "Name": "Benedict Tan",
+          "Language": "English"
+        },
+        {
+          "IGN": "d4v41",
+          "Name": "Khalish Rusyaidee",
+          "Language": "English"
+        },
+        {
+          "IGN": "shiba",
+          "Name": "Zhan Teng Toh",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "alecks",
+          "Name": "Alexandre Sallé",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Logo": "Bren_Esports",
+      "Name": "Bren Esports",
+      "Code": "BRN",
+      "Players": [
+        {
+          "IGN": "JessieVash",
+          "Name": "Jessie Cristy Cuyco",
+          "Language": "English"
+        },
+        {
+          "IGN": "DubsteP",
+          "Name": "Jayvee Paguirigan",
+          "Language": "English"
+        },
+        {
+          "IGN": "BORKUM",
+          "Name": "Jim Timbreza",
+          "Language": "English"
+        },
+        {
+          "IGN": "Dispenser",
+          "Name": "Kevin Te",
+          "Language": "English"
+        },
+        {
+          "IGN": "witz",
+          "Name": "Riley Go",
+          "Language": "English"
+        }
+      ],
+      "Staff": [
+        {
+          "IGN": "Gibo",
+          "Name": "Gilbert Sales Jr.",
+          "Language": "English"
+        }
+      ]
+    }
+  ]
+}
